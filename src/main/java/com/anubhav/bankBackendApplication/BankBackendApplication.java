@@ -1,13 +1,13 @@
-package com.anubhav.springsecuritybasics;
+package com.anubhav.bankBackendApplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringsecuritybasicsApplication {
+public class BankBackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringsecuritybasicsApplication.class, args);
+		SpringApplication.run(BankBackendApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package com.anubhav.springsecuritybasics;
+package com.anubhav.bankBackendApplication;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringsecuritybasicsApplicationTests {
+class BankBackendApplicationTests {
 
 	@Test
 	void contextLoads() {
